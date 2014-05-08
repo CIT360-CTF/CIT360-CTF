@@ -1,0 +1,15 @@
+https://developers.google.com/maps/documentation/android/
+
+This is the google maps API that I found.
+
+It include the base code for:
+
+Hello Map ====================================== JavaHelloMap.java
+Change the Map Type ======================= JavaChangeMapType.java
+Indoor Maps =================================== JavaIndoorMap.java
+Custom Markers and Info Windows ===== JavaCustMarkInfoWindows.java
+Flat Markers ================================ JavaFlatMarkers.java
+Polylines ===================================== JavaPolyLines.java
+
+
+I think that the Poly Lines are a good start to explore so I am going to start there.
